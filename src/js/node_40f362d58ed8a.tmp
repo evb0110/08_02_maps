@@ -1,0 +1,5 @@
+class ErrorRepository {
+  constructor() {
+    this.errorRegistry = new Map;
+  }
+}
